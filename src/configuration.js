@@ -21,6 +21,8 @@ var EasyAutocomplete = (function(scope){
 
 			autocompleteOff: true,
 
+			loadOnFocus: false,
+
 			placeholder: false,
 
 			ajaxCallback: function() {},
